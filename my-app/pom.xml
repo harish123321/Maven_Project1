@@ -11,8 +11,8 @@
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
-      <sonar.sources>src/main</sonar.sources>
-      <sonar.tests>src/test</sonar.tests>
+      <sonar.sources>my-app/src/main</sonar.sources>
+      <sonar.tests>my-app/src/test</sonar.tests>
   </properties>
 
   <dependencies>
