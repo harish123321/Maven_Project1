@@ -1,1 +1,1 @@
-# Maven_Project1 for testing
+# Sample Maven_Project1 for testing
